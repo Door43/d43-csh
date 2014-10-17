@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csh:home|Door43 (csh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csh|d43-csh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csh/archive/master.zip|d43-csh.zip]]
+
+**Recent Changes**
+{{changes>ns = csh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csh|Ethnologue data]]
+
